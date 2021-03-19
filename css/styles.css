@@ -3926,7 +3926,7 @@ body.search-is-visible {
     display: block;
     padding: var(--vspace-0_5) 2.4rem;
     font-size: var(--text-sm);
-    color: var(--color-text-light);
+    color: var(--color-text-dark);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
